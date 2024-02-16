@@ -1,0 +1,25 @@
+Support 95
+
+real	0m16.960s
+user	0m16.677s
+sys	0m0.280s
+Support 50
+
+real	1m44.114s
+user	1m43.423s
+sys	0m0.678s
+Support 25
+
+real	4m48.986s
+user	4m48.231s
+sys	0m0.727s
+Support 10
+
+real	17m8.246s
+user	17m6.956s
+sys	0m1.188s
+Support 5
+
+real	52m31.411s
+user	52m25.846s
+sys	0m5.239s

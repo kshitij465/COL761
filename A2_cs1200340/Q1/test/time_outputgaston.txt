@@ -1,0 +1,50 @@
+GASTON GrAph, Sequences and Tree ExtractiON algorithm
+Version 1.0 with Occurrence Lists
+Siegfried Nijssen, LIACS, 2004
+Read
+Edgecount
+Reorder
+
+real	0m0.920s
+user	0m0.758s
+sys	0m0.160s
+GASTON GrAph, Sequences and Tree ExtractiON algorithm
+Version 1.0 with Occurrence Lists
+Siegfried Nijssen, LIACS, 2004
+Read
+Edgecount
+Reorder
+
+real	0m7.352s
+user	0m6.988s
+sys	0m0.362s
+GASTON GrAph, Sequences and Tree ExtractiON algorithm
+Version 1.0 with Occurrence Lists
+Siegfried Nijssen, LIACS, 2004
+Read
+Edgecount
+Reorder
+
+real	0m15.121s
+user	0m14.412s
+sys	0m0.706s
+GASTON GrAph, Sequences and Tree ExtractiON algorithm
+Version 1.0 with Occurrence Lists
+Siegfried Nijssen, LIACS, 2004
+Read
+Edgecount
+Reorder
+
+real	0m44.404s
+user	0m42.646s
+sys	0m1.753s
+GASTON GrAph, Sequences and Tree ExtractiON algorithm
+Version 1.0 with Occurrence Lists
+Siegfried Nijssen, LIACS, 2004
+Read
+Edgecount
+Reorder
+
+real	7m32.404s
+user	7m22.646s
+sys	0m10.753s

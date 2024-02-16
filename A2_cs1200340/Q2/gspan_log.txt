@@ -1,0 +1,18 @@
+scanning datasets/AIDS/graphs.txt-gspan_a with 1600 graphs
+scanning done
+
+
+
+-------------------System Performance------------------
+			0.061005sec
+		7  Discovered SubGraphs
+---------------------------End-------------------------
+scanning datasets/AIDS/graphs.txt-gspan_i with 400 graphs
+scanning done
+
+
+
+-------------------System Performance------------------
+			0.157236sec
+		44  Discovered SubGraphs
+---------------------------End-------------------------
