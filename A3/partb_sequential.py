@@ -61,7 +61,7 @@ mean=[]
 accuracy=[]
 st=[]
 for d in dimensions:
-    a,b=partc_lsg('data/image_data.dat',d)
+    a,b=partc_lsg(sys.argv[1],d)
     mean.append(a)
     st.append(b)
 plt.figure(figsize=(12, 6))
